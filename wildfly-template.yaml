@@ -129,7 +129,7 @@ parameters:
 - description: Git source URI for application
   name: SOURCE_REPOSITORY_URL
   required: true
-  value: https://github.com/OpenShiftInAction/chapter8
+  value: https://github.com/akapong/chapter8
 - description: Git branch/tag reference
   name: SOURCE_REPOSITORY_REF
   value: master
