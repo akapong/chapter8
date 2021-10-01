@@ -64,7 +64,7 @@ objects:
         forcePull: true
         from:
           kind: DockerImage
-          name: johnfosborneiii/wildfly-oia:1.0
+          name: johnfosborneiii/wildfly-oia
       type: Source
     triggers:
     - imageChange: {}
